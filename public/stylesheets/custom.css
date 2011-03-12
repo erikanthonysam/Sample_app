@@ -97,7 +97,7 @@ a.signup_button {
 .round {
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
-	-border-radius: 10px;
+	border-radius: 10px;
 }
 
 footer {
@@ -106,6 +106,7 @@ footer {
 	width: 710px;
 	margin-left: auto;
 	margin-right: auto;
+	font-weight: bold;
 }
 
 footer nav {
